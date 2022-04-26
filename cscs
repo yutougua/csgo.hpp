@@ -158,9 +158,5 @@ constexpr ::std::ptrdiff_t m_yawClassPtr = 0xDBBF48;
 constexpr ::std::ptrdiff_t model_ambient_min = 0x59003C;
 constexpr ::std::ptrdiff_t set_abs_angles = 0x1E5430;
 constexpr ::std::ptrdiff_t set_abs_origin = 0x1E5270;
-
-
-constexpr ::std::ptrdiff_t m_nModelIndex = 0x258;
-constexpr ::std::ptrdiff_tm_iViewModelIndex = 0x3250;
 } // namespace signatures
 } // namespace hazedumper
